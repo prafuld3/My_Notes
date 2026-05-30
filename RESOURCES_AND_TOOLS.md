@@ -559,14 +559,3 @@ Before you start using prompts in production:
 **If you check all ✓, you're ready for production!**
 
 ---
-
-## 📞 Questions?
-
-Remember: The prompt engineering community is helpful and growing.
-Don't hesitate to ask questions, share learnings, and contribute back.
-
-**Go build amazing things!** 🚀
-
----
-
-Last updated: May 29, 2024
